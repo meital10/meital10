@@ -1,5 +1,5 @@
 <h3 align="left">About Me</h3>
-
+<p> <a href="https://meital10.github.io/">My Portfolio</a></p>
 <p> <a href="https://www.linkedin.com/in/meital-aharoni"/</a>Linkedin Profile</p>
 <h4 align="left">Hi 👋, I'm Meital</h4>
 
