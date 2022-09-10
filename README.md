@@ -1,9 +1,11 @@
 <h3 align="left">About Me</h3>
+<p> <a href="https://meital10.github.io/">My Portfolio</a></p>
+<p> <a href="https://www.linkedin.com/in/meital-aharoni"/</a>Linkedin Profile</p>
 <h4 align="left">Hi 👋, I'm Meital</h4>
 
-<p>I'm a passionate Full Stack/Frontend Developer. I Love coding and learn new technologies.</p>
-<p> These days I'm working on personal and team's projects enjoying collabrations,</p>
-<p>particapating in Tech communities and meetups.<p>
+<p>I'm a passionate Full Stack/Frontend Developer. I Love coding and learning new technologies.</p>
+<p>My experience in projects, personal and with teams, and also my studies, allowed me to deepen my knowledge and to search for more.</p>
+<p>I also enjoy in particapating in Tech communities and meetups.<p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meital10&label=Profile%20views&color=0e75b6&style=flat" alt="meital10" /> </p>
 
