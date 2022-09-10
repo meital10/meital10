@@ -1,5 +1,5 @@
 <h3 align="left">About Me</h3>
-<p> <a href="https://meital10.github.io/">My Portfolio</a></p>
+
 <p> <a href="https://www.linkedin.com/in/meital-aharoni"/</a>Linkedin Profile</p>
 <h4 align="left">Hi 👋, I'm Meital</h4>
 
@@ -8,7 +8,7 @@
 <p>My experience in projects, personal and with teams, and also my studies, allowed me to deepen my knowledge and to search for more.</p>
 <p>I also enjoy in particapating in Tech communities and meetups.<p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meital10&label=Profile%20views&color=0e75b6&style=flat" alt="meital10" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
