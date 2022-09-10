@@ -4,6 +4,7 @@
 <h4 align="left">Hi 👋, I'm Meital</h4>
 
 <p>I'm a passionate Full Stack/Frontend Developer. I Love coding and learning new technologies.</p>
+<p>I believe in the power of technology to effect and improve people's lives.</p>
 <p>My experience in projects, personal and with teams, and also my studies, allowed me to deepen my knowledge and to search for more.</p>
 <p>I also enjoy in particapating in Tech communities and meetups.<p>
 
