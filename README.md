@@ -3,7 +3,7 @@
 <p> <a href="https://www.linkedin.com/in/meital-aharoni"/</a>Linkedin Profile</p>
 <h4 align="left">Hi 👋, I'm Meital</h4>
 
-<p>I'm a passionate Full Stack/Frontend Developer. I Love coding and learning new technologies.</p>
+<p>I am a Full Stack Developer. I am passionate about code and I enjoy learning new things.</p>
 <p>I believe in the power of technology to affect and improve people's lives.</p>
 <p>My experience in both personal and team projects, as well as my studies, allowed me to deepen my knowledge and to search for more.</p>
 <p>I also enjoy in particapating Tech communities and meetups and to keep learning.<p>
